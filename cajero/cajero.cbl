@@ -6,5 +6,7 @@
        WORKING-STORAGE SECTION.
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
+                   
+              DISPLAY "Bienvenido al cajero automático".
            STOP RUN.
            
