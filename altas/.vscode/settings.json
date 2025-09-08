@@ -1,4 +1,5 @@
 {
+
     "cobol-lsp.server.extraArgs": ["-std=cobol85"],
     "cobol-lsp.copybookdirs": ["./copybooks"],
     "files.associations": {
@@ -11,3 +12,4 @@
         "cobol": "cobc -x $fileName && ./$fileNameWithoutExt"
     }
 }
+
